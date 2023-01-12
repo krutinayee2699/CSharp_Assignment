@@ -1,0 +1,7 @@
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Exercise1\bin\Debug\CSharp_Exercise1.exe.config
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Exercise1\bin\Debug\CSharp_Exercise1.exe
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Exercise1\bin\Debug\CSharp_Exercise1.pdb
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Exercise1\obj\Debug\CSharp_Exercise1.csproj.AssemblyReference.cache
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Exercise1\obj\Debug\CSharp_Exercise1.csproj.CoreCompileInputs.cache
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Exercise1\obj\Debug\CSharp_Exercise1.exe
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Exercise1\obj\Debug\CSharp_Exercise1.pdb

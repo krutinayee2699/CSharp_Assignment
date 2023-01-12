@@ -1,0 +1,6 @@
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Q10\bin\Debug\CSharp_Q10.exe.config
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Q10\bin\Debug\CSharp_Q10.exe
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Q10\bin\Debug\CSharp_Q10.pdb
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Q10\obj\Debug\CSharp_Q10.csproj.CoreCompileInputs.cache
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Q10\obj\Debug\CSharp_Q10.exe
+E:\Internship_Assignment\C#Programming\CSharp_KrutiNayee\CSharp_Q10\obj\Debug\CSharp_Q10.pdb
